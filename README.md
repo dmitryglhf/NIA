@@ -1,12 +1,13 @@
 <div align="center">
 <img src="./src/pictures/nia_logo.png">
+
 # NIA Framework 
 
 
 *An elegant, modular, and scalable solution for automated machine learning tasks.*
 
 ---
-
+</div>
 
 ## 📖 Overview 
 The **AutoML Framework**  is a comprehensive toolkit designed to automate the end-to-end machine learning pipeline. From data preprocessing and feature engineering to model selection and hyperparameter tuning, this framework simplifies the complexities of machine learning development.
