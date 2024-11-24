@@ -1,4 +1,4 @@
-![nia_logo](./pictures/nia_logo.png)
+![nia_logo](./src/pictures/nia_logo.png)
 
 # NIA Framework 
 
