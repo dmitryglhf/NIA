@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./src/pictures/nia_logo.png">
+<img src="./src/pictures/nia_logo.png"  width="200" height="200">
 
 # NIA Framework 
 
