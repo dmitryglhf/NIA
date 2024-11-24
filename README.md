@@ -1,5 +1,5 @@
-![nia_logo](./src/pictures/nia_logo.png)
-
+<div align="center">
+<img src="./src/pictures/nia_logo.png">
 # NIA Framework 
 
 
