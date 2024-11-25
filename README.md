@@ -95,7 +95,7 @@ automl.get_summary()
 ## 📁 Repository Structure 
 
 
-```arduino
+```
 automl-framework/
 ├── automl_framework/
 │   ├── preprocessing/
